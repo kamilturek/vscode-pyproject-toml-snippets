@@ -19,7 +19,7 @@ To use a snippet, simply type the name of the snippet and press Tab.
 This will expand the snippet to include the appropriate syntax for the
 pyproject.toml file.
 
-![Usage](images/usage.gif)
+![Usage](./images/usage.gif)
 
 ## Contributing
 
@@ -32,4 +32,4 @@ Please see [`CHANGELOG.md`](./CHANGELOG.md).
 
 ## License
 
-This extension is licensed under the [MIT License](./LICENSE.md).
+This extension is licensed under the [MIT License](./LICENSE).
