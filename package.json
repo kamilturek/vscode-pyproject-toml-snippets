@@ -1,0 +1,25 @@
+{
+  "name": "vscode-pyproject-toml-snippets",
+  "displayName": "pyproject.toml snippets",
+  "description": "Snippets for pyproject.toml",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kamilturek/vscode-pyproject-toml-snippets"
+  },
+  "version": "0.1.0",
+  "engines": {
+    "vscode": "^1.77.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "toml",
+        "path": "./snippets/pyproject-toml.json"
+      }
+    ]
+  }
+}

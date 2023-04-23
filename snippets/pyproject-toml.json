@@ -1,0 +1,23 @@
+{
+  "pyproject.toml template": {
+    "prefix": "pyproject",
+    "body": [
+      "[project]",
+      "name = \"${1:$WORKSPACE_NAME}\"",
+      "authors = [{name = \"$2\", email = \"$3\"}]",
+      "version = \"${4:0.1.0}\"",
+      "requires-python = \"${5:>=3.11}\"",
+      "dependencies = [",
+      "\t\"${6:requests}\"",
+      "]",
+      "",
+      "[project.optional-dependencies]",
+      "dev = [",
+      "\t\"${7:pytest}\"",
+      "]",
+      ""
+    ],
+    "description": "pyproject.toml template",
+    "isFileTemplate": true
+  }
+}
