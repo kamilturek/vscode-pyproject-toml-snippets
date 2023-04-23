@@ -32,4 +32,4 @@ Please see [`CHANGELOG.md`](./CHANGELOG.md).
 
 ## License
 
-This extension is licensed under the `MIT License`(./LICENSE.md).
+This extension is licensed under the [MIT License](./LICENSE.md).
