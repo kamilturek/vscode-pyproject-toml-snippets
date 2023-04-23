@@ -24,7 +24,7 @@ pyproject.toml file.
 ## Contributing
 
 If you have a suggestion for a new snippet or improvement to an existing one,
-please open an issue or submit a pull request on the [GitHub repository](https://github.com/kamilturek/pyproject-toml-snippets).
+please open an issue or submit a pull request on the [GitHub repository](https://github.com/kamilturek/vscode-pyproject-toml-snippets).
 
 ## Change Log
 
